@@ -1,0 +1,13 @@
+{
+  "name": "scaling-nodejs-with-docker",
+  "version": "1.0.0",
+  "description": "Sample Node.js project showing how to horizontally scale with Docker",
+  "author": "Maxim Orlov <maximorl@gmail.com> (https://github.com/Maximization)",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
