@@ -4,7 +4,7 @@ This project shows how to scale a Node.js application with Docker Compose and us
 
 ## Getting started
 
-1. Clone this repository `git clone git@github.com:Maximization/scaling-nodejs-with-docker.git && cd scaling-nodejs-with-docker`
+1. Clone this repository `git clone https://github.com/Maximization/scaling-nodejs-with-docker.git && cd scaling-nodejs-with-docker`
 
 2. Start the application stack scaled to four app instances `docker-compose up -d --scale app=4`
 
