@@ -1,4 +1,4 @@
-FROM node:12.15.0-buster
+FROM node:latest
 
 USER node
 RUN mkdir /home/node/app
