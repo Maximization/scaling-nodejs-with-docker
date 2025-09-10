@@ -5,7 +5,7 @@ services:
     build: .
     init: true
   nginx:
-    image: nginx:1.17.9
+    image: nginx:latest
     ports:
       - "80:80"
     volumes:
